@@ -41,4 +41,5 @@ def get_jokes(n, flag=False):
 
 
 
-get_jokes(3, flag=True)
+get_jokes(3, flag=False)
+get_jokes(2, flag=True)
