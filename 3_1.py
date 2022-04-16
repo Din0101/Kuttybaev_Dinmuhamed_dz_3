@@ -2,7 +2,7 @@ def num_translate(numb):
     """
     функция переводчик
     :param numb: введите прописные цифры от 0 до 10
-    :return:
+    :return:возвращает слово на русском
     """
 
     num_slov = {
